@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me begencheziz@gmail.com
+- 📫 You can reach me at: begencheziz@gmail.com
 
 <!---
 BegenchEziz/BegenchEziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
